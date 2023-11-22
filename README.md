@@ -19,6 +19,10 @@ To use this project, follow these steps:
 1. Clone the repository: `git clone https://github.com/Bmo2001/Simple_WebPage.git`
 2. Open the `index.html` file in a web browser.
 
+## Live Demo
+
+Check out the live demo of the Simple_WebPage [here](https://bmo2001.github.io/Simple_WebPage/).
+
 ## Customization
 
 Feel free to customize the webpage to suit your needs. You can modify the HTML, CSS and JavaScript files as required. Add additional content, styles, wallpapers, or functionality to create your unique web application or website.
